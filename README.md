@@ -1,7 +1,7 @@
 ## SDK 下载和环境配置
 ### SDK 下载
 百度地图 API 的下载页为[下载](http://lbsyun.baidu.com/sdk/download?selected=mapsdk_basicmap,mapsdk_searchfunction,mapsdk_lbscloudsearch,mapsdk_calculationtool,mapsdk_radar "百度地图 API 下载页")：
-![](DraggedImage.png)
+![](./images/sdkDownload.png)
 关于各个下载功能，上面都有详细的说明。
 ### 开发环境配置
 1. 获取 Android SH1 值：
