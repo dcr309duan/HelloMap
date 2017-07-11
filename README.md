@@ -5,7 +5,7 @@
 关于各个下载功能，上面都有详细的说明。
 ### 开发环境配置
 1. 获取 Android SH1 值：
-	1. 从 Android Studio Gradle task 导出：![](DraggedImage-1.png)SigningReport 可以导出。
+	1. 从 Android Studio Gradle task 导出：![](./images/getSH1.png)SigningReport 可以导出。
 	2. 从命令行获取
 2. 从 `AndroidManifest.xml`  中获取包名
 3. 在百度地图 API 网站上获取 AK 值。
@@ -96,7 +96,7 @@
 	```
 
 #### 显示结果
-![](Screenshot_20170711-115611.png)
+![](./images/mapResult.png)
 
 如果显示空白地图，很有可能是因为百度 ak 没有注册设定好。需要检查 sh1 是否设置正确，包名是否填写正确，以及权限设定。
 
